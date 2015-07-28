@@ -1,10 +1,10 @@
 # Cordova Streaming Media plugin 
 
-for iOS and Android, by [Feng Liu](https://github.com/goldendragon88)
+for iOS and Android, by [Feng Liu](https://github.com/Feng-Liu26)
 
-1. [Description](https://github.com/goldendragon88/Streaming-Media-Cordova-Plugin#1-description)
-2. [Usage](https://github.com/goldendragon88/Streaming-Media-Cordova-Plugin#3-usage)
-3. [Demo](https://github.com/goldendragon88/streaming-media-plugin-demo)
+1. [Description](https://github.com/Feng-Liu26/Streaming-Media-Cordova-Plugin#1-description)
+2. [Usage](https://github.com/Feng-Liu26/Streaming-Media-Cordova-Plugin#3-usage)
+3. [Demo](https://github.com/Feng-Liu26/streaming-media-plugin-demo)
 
 ## 1. Description
 
